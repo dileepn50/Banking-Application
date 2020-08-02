@@ -1,6 +1,5 @@
 package in.co.service.banking.service;
 
-import com.google.protobuf.Api;
 import in.co.api.banking.models.ApiResponse;
 import in.co.api.banking.models.ApiResult;
 import in.co.api.banking.models.Branch;
@@ -11,7 +10,6 @@ import in.co.banking.store.repositories.HeadOfficeRepository;
 import in.co.service.banking.interfaces.IHeadOffice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.Optional;
 
 @Service

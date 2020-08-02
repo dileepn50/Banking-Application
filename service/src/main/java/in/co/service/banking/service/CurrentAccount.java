@@ -4,7 +4,6 @@ import in.co.api.banking.models.ApiResponse;
 import in.co.api.banking.models.ApiResult;
 import in.co.banking.store.domain.BankAccountEntity;
 import org.springframework.stereotype.Service;
-
 import java.util.Optional;
 
 @Service

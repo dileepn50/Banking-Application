@@ -6,7 +6,6 @@ import in.co.banking.store.domain.BankAccountEntity;
 import in.co.banking.store.repositories.BankAccountRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.util.Optional;
 
 @Service
